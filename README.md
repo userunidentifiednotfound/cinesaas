@@ -140,3 +140,4 @@ Theatre
 - Seat holds scoped to `(seatId + showId)` — no cross-screen conflicts
 - DB transactions prevent double-booking race conditions
 - Hold cleanup runs every 30 seconds server-side
+# cinesaas
